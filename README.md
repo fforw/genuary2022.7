@@ -1,3 +1,3 @@
-# Simple Starter
+# genuary2022.7
 
-Simple JS build starter for simple, client-only demos.
+Sol Lewit shapes.  
