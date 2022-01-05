@@ -79,7 +79,7 @@ function getRandomPoints(num)
     return pts.filter(p => !!p)
 }
 
-const numRandom = 60
+const numRandom = 100
 const limit = 50
 
 const black = new Color(0,0,0)
